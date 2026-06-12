@@ -3,7 +3,7 @@
 const SITE = {
   name: "ONSET",
   tagline: "Personal Branding & LinkedIn Authority",
-  phone: "+923226243",
+  phone: "+923223226243",
 };
 
 const NAV = [
